@@ -1,0 +1,34 @@
+Math  function العمليات الحسابيه 
+
+n1=66.55
+
+1- math.round(n1) تقريب الرقم العشرى 
+2- math.ceil(n1) تقريب للاعلى رقم 
+3- math.floor(n1) تقريب لاقل رقم 
+4- math.min(n1,11,12,1232) ==> 11
+5- math.max(n1,11,34,56,33)==> 56
+6- math.random() رقم عشوائى من الصفر لل واحد
+7- math.Fixed() لو رقم 2.33  بيرجع 2
+8- math.Fixed(1) لو رقم 2.33  بيرجع 2.3
+9- math.abs(-15) بريجع رقم موجب فقط 
+
+-------------- some function to string ---------------
+string function 
+
+let msg= " welcom by NTI test line "
+
+1- msg.length() معرفه عدد الحروف فى الكلمة يبدا من اندكس 0 
+2- msg.charAt(0) الحرف الموجد فى الاندكس 0 
+3- msg.length-1 اخر حرف فى الكلمه 
+4- msg.trm() لحذف المسفات فى اول واخر الكلمة 
+5- msg.tolocaleLowerCase() تحويل الحوف سمول 
+6- msg.tolocaleUpperCase() تحويل الحوف كابيتل 
+7- فى عمليات البحث 
+    -msg.indexOf()              البحث من اليسار اندكس  0  
+    -msg.lastIndexOf()        البحث من اليمين  من الاندكس 0 برضو 
+8- msg.slice()  تقسيم المتغير من الاندكس االبدايه للنهايه 
+    ex: console.log(msg.slice(0, 2)) end index not inclouded 
+9- msg.substring(5, 8) الفرقبينها وبين السلايس انها مش بتقبل انكس سالب
+10-msg.split("") بيحول الجمله ل اررى وبناء عليه بيتم تقسيمها اعتماد على العنصر ال بديه للفانكشن 
+11-ES6 
+includes  - stratWith - endwith 
