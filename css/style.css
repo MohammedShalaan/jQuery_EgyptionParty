@@ -15,7 +15,7 @@
 
 /* //======= first section home =====// */
 .EgyptionPartySection {
-    background: linear-gradient(rgba(192, 19, 19, 0.5) 100%, rgba(0, 0, 0, 0.5)100%), url("/img/backParty.jpg");
+    background: linear-gradient(rgba(192, 19, 19, 0.5) 100%, rgba(0, 0, 0, 0.5)100%), url("../img/backParty.jpg");
     background-size: cover;
 }
 
@@ -34,7 +34,7 @@ h2 {
 /* //======= third section timer =====// */
 
 .Timer {
-    background: linear-gradient(rgba(192, 19, 19, 0.5) 100%, rgba(0, 0, 0, 0.5)100%), url("/img/timeAll.jpg");
+    background: linear-gradient(rgba(192, 19, 19, 0.5) 100%, rgba(0, 0, 0, 0.5)100%), url("../img/timeAll.jpg");
     background-size: cover;
 }
 
